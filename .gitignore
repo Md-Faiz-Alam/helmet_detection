@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Virtual environment
+.venv/
+venv/
+env/
+helemt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Training & detection results
+runs/
+results/
+light_bundles/
+
+# Model weights (keep local)
+models/*.pt
+
+# Streamlit cache
+.streamlit/
+
+# IDE / OS files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+
+data/
