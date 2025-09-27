@@ -6,7 +6,7 @@ This repo includes modular training & inference scripts and a **Streamlit web ap
 ---
 
 ## 📂 Project Structure
-
+```
 Helmet_Detection/
 │
 ├── models/
@@ -23,7 +23,7 @@ Helmet_Detection/
 ├── data/
 │ └── data.yaml # dataset config
 └── README.md
-
+```
 ---
 ## 📦 Dataset
 
@@ -43,7 +43,7 @@ To train or fine-tune the model yourself, please download it from the above link
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/Helmet_Detection.git
+git clone https://github.com/Md-Faiz-Alam/helmet_detection.git
 cd Helmet_Detection
 ```
 
