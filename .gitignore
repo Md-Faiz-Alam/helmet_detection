@@ -19,9 +19,6 @@ runs/
 results/
 light_bundles/
 
-# Model weights (keep local)
-models/*.pt
-
 # Streamlit cache
 .streamlit/
 
